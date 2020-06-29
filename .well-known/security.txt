@@ -1,0 +1,3 @@
+Contact: mailto:chillerdragon@gmail.com
+Contact: wire:@zillyhuhn
+Canonical: https://www.zillyhuhn.com/.well-known/security.txt
